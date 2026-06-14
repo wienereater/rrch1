@@ -1,0 +1,17 @@
+{
+  "title": "Ramen Rider",
+  "description": "A hero harnessing the power of ramen, he fights to expose the crimes of the organization that created him.",
+  "artist": "narcoticalmonds",
+  "author": "narcoticalmonds",
+  "cover": "https://i.imgur.com/JMsl1lB.jpeg",
+  "chapters": {
+    "1": {
+      "title": "Transformation",
+      "volume": "1",
+      "groups": {
+        "narcoticalmonds": "/proxy/api/imgur/chapter/rr-ch1-ZMGlmhW/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
